@@ -1,4 +1,4 @@
-### **Restaurant Recommendation System **  
+### **Restaurant Recommendation System**  
 
 ## **How It Works**  
 1. **Load and Preprocess Data:**  
